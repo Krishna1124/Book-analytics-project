@@ -7,9 +7,10 @@ This project analyzes book trends using SQL and Tableau.
 
 ## 🔗 Files:
 - `books_data_analysis.sql` → SQL queries for data analysis  
-- `books_dashboard.twbx` → Tableau workbook with visualizations  
+- `books_dashboard.twbx` → Tableau workbook with visualizations
+- Link to Dashboard - https://public.tableau.com/views/BooksDataAnalysis_17480301683900/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🚀 How to Use:
 1. Import the SQL file into your database.  
-2. Open the Tableau workbook (`.twbx`) in Tableau Desktop.  
+2. Open the Tableau workbook (`.twbx`) in Tableau Desktop. 
 3. Explore trends and insights in the dashboard!  
